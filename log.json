@@ -306,5 +306,65 @@
       "company": "TikTok"
     },
     "last_checked_at": "2026-03-01 01:52:51"
+  },
+  {
+    "timestamp": "2026-03-01T16:46:09.234506+00:00",
+    "company": "Hudson River Trading",
+    "role": "Python Software Engineering Internship \u2013 Summer 2026",
+    "track": "Software Engineering",
+    "season": "Summer 2026",
+    "url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026-2/",
+    "status": "skipped",
+    "reason": "Max 1/company-ever enforced; prior attempt already logged.",
+    "applied_at": "2026-03-01 16:46:09 UTC",
+    "source": "queue-applier-run"
+  },
+  {
+    "timestamp": "2026-03-01T16:46:09.234506+00:00",
+    "company": "Citadel",
+    "role": "Software Engineer - Intern (US)",
+    "track": "Software Engineering",
+    "season": "Summer 2026",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "status": "skipped",
+    "reason": "Max 1/company-ever enforced; prior attempt already logged.",
+    "applied_at": "2026-03-01 16:46:09 UTC",
+    "source": "queue-applier-run"
+  },
+  {
+    "timestamp": "2026-03-01T16:46:09.234506+00:00",
+    "company": "Google",
+    "role": "Software Engineering Intern, PhD, Summer 2026",
+    "track": "Software Engineering",
+    "season": "Summer 2026",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/118106937735684806-software-engineering-intern-phd-summer-2026",
+    "status": "skipped",
+    "reason": "Max 1/company-ever enforced; prior attempt already logged.",
+    "applied_at": "2026-03-01 16:46:09 UTC",
+    "source": "queue-applier-run"
+  },
+  {
+    "timestamp": "2026-03-01T16:46:09.234506+00:00",
+    "company": "Dropbox",
+    "role": "Data Science Engineer Intern (Summer 2026)",
+    "track": "Data Engineering",
+    "season": "Summer 2026",
+    "url": "https://www.dropbox.jobs/en/jobs/7527941/data-science-engineer-intern-summer-2026/",
+    "status": "skipped",
+    "reason": "Max 1/company-ever enforced; prior attempt already logged.",
+    "applied_at": "2026-03-01 16:46:09 UTC",
+    "source": "queue-applier-run"
+  },
+  {
+    "timestamp": "2026-03-01T16:46:09.234506+00:00",
+    "company": "Rocket",
+    "role": "Data Engineer Intern - Summer 2026",
+    "track": "Data Engineering",
+    "season": "Summer 2026",
+    "url": "https://careers.rocket.com/careers/r-081499/data-engineer-intern-summer-2026/",
+    "status": "skipped",
+    "reason": "Max 1/company-ever enforced; prior attempt already logged.",
+    "applied_at": "2026-03-01 16:46:09 UTC",
+    "source": "queue-applier-run"
   }
 ]
