@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "timestamp": "2026-03-01T19:22:29Z",
+    "company": "Hudson River Trading",
+    "role": "Python Software Engineering Internship \u2013 Summer 2026",
+    "track": "Software Engineering",
+    "season": "Summer 2026",
+    "url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026-2/",
+    "status": "failed",
+    "reason": "Opened browser and reached full Greenhouse application form; reCAPTCHA present and manual completion required, submission not completed.",
+    "applied_at": "2026-03-01T19:22:29Z",
+    "source": "live_tui_run"
+  },
+  {
+    "timestamp": "2026-03-01T19:22:29Z",
+    "company": "Citadel",
+    "role": "Software Engineer - Intern (US)",
+    "track": "Software Engineering",
+    "season": "Summer 2026",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "status": "failed",
+    "reason": "Opened browser and loaded inline application form (email+resume), but full submission not completed in this live run.",
+    "applied_at": "2026-03-01T19:22:29Z",
+    "source": "live_tui_run"
+  }
+]
