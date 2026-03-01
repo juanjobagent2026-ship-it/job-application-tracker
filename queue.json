@@ -1,38 +1,52 @@
 [
   {
-    "timestamp": "2026-03-01T19:22:29Z",
+    "timestamp": "2026-03-01T19:21:50.887466+00:00",
     "company": "Hudson River Trading",
     "role": "Python Software Engineering Internship \u2013 Summer 2026",
     "track": "Software Engineering",
     "season": "Summer 2026",
     "url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026-2/",
-    "status": "failed",
+    "source": "scout_live",
+    "status": "processed",
+    "outcome": "failed",
     "reason": "Opened browser and reached full Greenhouse application form; reCAPTCHA present and manual completion required, submission not completed.",
-    "applied_at": "2026-03-01T19:22:29Z",
-    "source": "live_tui_run"
+    "processed_at": "2026-03-01T19:22:29Z"
   },
   {
-    "timestamp": "2026-03-01T19:22:29Z",
+    "timestamp": "2026-03-01T19:21:50.887466+00:00",
     "company": "Citadel",
     "role": "Software Engineer - Intern (US)",
     "track": "Software Engineering",
     "season": "Summer 2026",
     "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
-    "status": "failed",
+    "source": "scout_live",
+    "status": "processed",
+    "outcome": "failed",
     "reason": "Opened browser and loaded inline application form (email+resume), but full submission not completed in this live run.",
-    "applied_at": "2026-03-01T19:22:29Z",
-    "source": "live_tui_run"
+    "processed_at": "2026-03-01T19:22:29Z"
   },
   {
-    "timestamp": "2026-03-01T19:25:45Z",
+    "timestamp": "2026-03-01T19:24:18.872319+00:00",
+    "company": "Hudson River Trading",
+    "role": "Python Software Engineering Internship \u2013 Summer 2026",
+    "track": "Software Engineering",
+    "season": "Summer 2026",
+    "url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026-2/",
+    "source": "manual_hrt_retry",
+    "status": "queued"
+  },
+  {
+    "timestamp": "2026-03-01T19:25:11.175653+00:00",
     "company": "BHG Financial",
     "role": "Data Scientist Intern - Summer 2026",
     "track": "Data/AI",
     "season": "Summer 2026",
     "url": "https://jobs.lever.co/bhg-inc/1708cb0e-d713-4d4b-8ecf-1f71600a4e2a/apply",
-    "status": "failed",
+    "source": "lever_api_scout",
+    "status": "processed",
+    "notes": "Created 2026-02-26 UTC via Lever API (<=3 days).",
+    "outcome": "failed",
     "reason": "Lever application includes anti-bot challenge (hCaptcha/LinkedIn widget) and required fields not safely auto-resolvable from profile; manual completion required.",
-    "applied_at": "2026-03-01T19:25:45Z",
-    "source": "subagent_cycle_2026-03-01"
+    "processed_at": "2026-03-01T19:25:45Z"
   }
 ]
